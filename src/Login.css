@@ -1,0 +1,14 @@
+.formLogin .login{
+    margin: 1em auto;
+   
+}
+
+.formLogin span{
+    color: red;
+    font-size: 1.3em;
+    cursor: pointer;
+}
+
+.formLogin button{
+    margin-top: 2em;
+}
